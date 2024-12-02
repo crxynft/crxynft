@@ -1,11 +1,49 @@
-<h1 align="center">Hi <img src="https://github.com/crxynft/crxynft/blob/main/icons/Hi.gif" width="28px"/>,I'm crxynft</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Fullstack Developer
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+# 👋 Welcome to My GitHub!
+
+![Banner](https://user-images.githubusercontent.com/placeholder/banner.png)  
+*Creative, Innovative, Always Exploring!*
+
+---
+
+## 🧑‍💻 About Me
+Hi there! I'm [Your Name] 🌟, a passionate developer who loves building **awesome projects** and solving **real-world problems** with code. My areas of interest include:
+
+- **Full Stack Development** 🌐
+- **Discord Bots** 🤖
+- **Cybersecurity** 🔐
+- **Creative UI/UX** 🎨
+
+💡 **Fun Fact**: I can code for hours fueled by coffee ☕ and good music 🎵.
+
+---
+
+## 🚀 Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌟 Projects I'm Proud Of
+✨ **[NetCord](https://github.com/YourUsername/NetCord)**: An advanced Discord bot focused on safety and simplicity.  
+✨ **[Spotify Clone](https://github.com/YourUsername/SpotifyClone)**: A full-featured music player UI/UX built with Node.js and Express.
+
+---
+
+## 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+
+---
+
+💻 **"Code is like humor. When you have to explain it, it’s bad."**

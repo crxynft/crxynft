@@ -1,12 +1,11 @@
 # 👋 Welcome to My GitHub!
 
-![Banner](https://user-images.githubusercontent.com/placeholder/banner.png)  
 *Creative, Innovative, Always Exploring!*
 
 ---
 
 ## 🧑‍💻 About Me
-Hi there! I'm [Your Name] 🌟, a passionate developer who loves building **awesome projects** and solving **real-world problems** with code. My areas of interest include:
+Hi there! I'm crxynft 🌟, a passionate developer who loves building **awesome projects** and solving **real-world problems** with code. My areas of interest include:
 
 - **Full Stack Development** 🌐
 - **Discord Bots** 🤖
@@ -28,7 +27,7 @@ Hi there! I'm [Your Name] 🌟, a passionate developer who loves building **awes
 ---
 
 ## 🌟 Projects I'm Proud Of
-✨ **[NetCord](https://github.com/YourUsername/NetCord)**: An advanced Discord bot focused on safety and simplicity.  
+✨ **[Discord bot handler](https://github.com/crxynft/)**: An basic handler for prefix and slash commands and many more.  
 ✨ **[Spotify Clone](https://github.com/YourUsername/SpotifyClone)**: A full-featured music player UI/UX built with Node.js and Express.
 
 ---
